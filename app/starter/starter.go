@@ -8,7 +8,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/fladago/gbbackone/app/repos/user"
+	"github.com/fladago/geekbackonelesssix/app/repos/user"
 )
 
 type App struct {

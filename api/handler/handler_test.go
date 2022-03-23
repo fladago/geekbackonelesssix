@@ -16,8 +16,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/fladago/gbbackone/app/repos/user"
-	"github.com/fladago/gbbackone/db/mem/usermemstore"
+	"github.com/fladago/geekbackonelesssix/app/repos/user"
+	"github.com/fladago/geekbackonelesssix/db/mem/usermemstore"
 )
 
 func TestRouter_CreateUser(t *testing.T) {

@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/fladago/gbbackone/app/repos/user"
+	"github.com/fladago/geekbackonelesssix/app/repos/user"
 	"github.com/google/uuid"
 )
 

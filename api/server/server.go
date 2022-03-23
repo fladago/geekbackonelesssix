@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/fladago/gbbackone/app/repos/user"
+	"github.com/fladago/geekbackonelesssix/app/repos/user"
 )
 
 //Должен быть сервер, который принимает запросы и вызывает бизнес логику

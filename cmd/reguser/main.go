@@ -6,11 +6,11 @@ import (
 	"os/signal"
 	"sync"
 
-	"github.com/fladago/gbbackone/api/handler"
-	"github.com/fladago/gbbackone/api/server"
-	"github.com/fladago/gbbackone/app/repos/user"
-	"github.com/fladago/gbbackone/app/starter"
-	"github.com/fladago/gbbackone/db/mem/usermemstore"
+	"github.com/fladago/geekbackonelesssix/api/handler"
+	"github.com/fladago/geekbackonelesssix/api/server"
+	"github.com/fladago/geekbackonelesssix/app/repos/user"
+	"github.com/fladago/geekbackonelesssix/app/starter"
+	"github.com/fladago/geekbackonelesssix/db/mem/usermemstore"
 )
 
 func main() {
